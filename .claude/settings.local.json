@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"^▼\\\\|^■\\\\|^●\\\\|^※\\\\|^[0-9]\\\\.\\\\|^[A-Za-z]+$\" /Users/hemokosa/Dropbox/GitHub/MatrixHarmony/MatrixHarmony.scd)",
+      "Bash(wc -l /Users/hemokosa/Dropbox/GitHub/MatrixHarmony/Classes/*.sc /Users/hemokosa/Dropbox/GitHub/MatrixHarmony/Examples/*.scd)"
+    ]
+  }
+}
